@@ -1,0 +1,186 @@
+Select
+Find Customers With Positive Revenue this Year
+Easy
+
+Customers Who Never Order
+Solution
+Easy
+
+Calculate Special Bonus
+Solution
+Easy
+
+Customers Who Bought Products A and B but Not C
+Solution
+Medium
+
+Highest Grade For Each Student
+Solution
+Medium
+
+Basic Joins
+Combine Two Tables
+Solution
+Easy
+
+Sellers With No Sales
+Solution
+Easy
+
+Top Travellers
+Solution
+Easy
+
+Sales Person
+Solution
+Easy
+
+Evaluate Boolean Expression
+Medium
+
+Team Scores in Football Tournament
+Medium
+
+Basic Aggregate Functions
+The Latest Login in 2020
+Solution
+Easy
+
+Game Play Analysis I
+Solution
+Easy
+
+Warehouse Manager
+Solution
+Easy
+
+Customer Placing the Largest Number of Orders
+Solution
+Easy
+
+Find Total Time Spent by Each Employee
+Solution
+Easy
+
+Immediate Food Delivery I
+Solution
+Easy
+
+Apples & Oranges
+Solution
+Medium
+
+Number of Calls Between Two Persons
+Medium
+
+Sorting and Grouping
+Bank Account Summary II
+Solution
+Easy
+
+Duplicate Emails
+Solution
+Easy
+
+Actors and Directors Who Cooperated At Least Three Times
+Solution
+Easy
+
+Customer Order Frequency
+Easy
+
+Daily Leads and Partners
+Solution
+Easy
+
+Friendly Movies Streamed Last Month
+Solution
+Easy
+
+Countries You Can Safely Invest In
+Medium
+
+Advanced Select and Joins
+Consecutive Available Seats
+Solution
+Easy
+
+Rearrange Products Table
+Solution
+Easy
+
+Shortest Distance in a Line
+Solution
+Easy
+
+Employees With Missing Information
+Easy
+
+Page Recommendations
+Medium
+
+Tree Node
+Solution
+Medium
+
+Game Play Analysis III
+Solution
+Medium
+
+Grand Slam Titles
+Medium
+
+Leetflex Banned Accounts
+Solution
+Medium
+
+Subqueries
+Students With Invalid Departments
+Easy
+
+Find the Team Size
+Easy
+
+Game Play Analysis II
+Solution
+Easy
+
+Department Highest Salary
+Solution
+Medium
+
+The Most Recent Orders for Each Product
+Solution
+Medium
+
+The Most Recent Three Orders
+Medium
+
+Maximum Transaction Each Day
+Medium
+
+Advanced Topics: Window Function and CTE
+Project Employees III
+Solution
+Medium
+
+Find the Start and End Number of Continuous Ranges
+Medium
+
+The Most Frequently Ordered Products for Each Customer
+Medium
+
+Biggest Window Between Visits
+Medium
+
+All People Report to the Given Manager
+Medium
+
+Find the Quiet Students in All Exams
+Hard
+
+Find the Subtasks That Did Not Execute
+Hard
+
+Report Contiguous Dates
+Hard
